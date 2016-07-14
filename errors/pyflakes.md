@@ -1,4 +1,4 @@
-# flake8
+# pyflakes
 Reference: [Flake8 Warnings](http://flake8.pycqa.org/en/latest/warnings.html)
 
 # F401
